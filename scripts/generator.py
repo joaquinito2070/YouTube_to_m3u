@@ -8,7 +8,7 @@ youtube = InnerTube("WEB")
 channels = []
 
 # Buscar los canales que tienen emisiones en directo
-search_results = youtube.search(query="live", params={"sp":"EgQQAUgB"})
+search_results = youtube.search(query="live", params={"sp":"EgJAAQ"})
 
 # Iterar por los resultados de la búsqueda
 for result in search_results["contents"]["twoColumnSearchResultsRenderer"]["primaryContents"]["sectionListRenderer"]["contents"][0]["itemSectionRenderer"]["contents"]:
