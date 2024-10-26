@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316" tvg-id="", TV9 Telugu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729934076/ei/nF4cZ5D-F9Cy2_gPsc-myAY/ip/172.183.106.60/id/II_m28Bm-iM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241486/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApARG0MuhTfqXEJLw_BDsGeytxvCeZZKhSUCM1chDP_4Aaftuo5xEXj_Y5vLU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPH720XYEGNdjpwDw4OgO6LognBOgVlzg1W_i5CaDrSPAiAxWumiqj9lRRh_5ooOWQ9QQs8sk7vnSK5XeDXibSAflg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" tvg-id="", NTV Telugu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -456,7 +456,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Times Now
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729934183/ei/B18cZ_mIBLyrybgPx7DLwAk/ip/172.183.106.60/id/u125k9LaDxI.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303820/txs/51303818%2C51303819%2C51303820%2C51303821/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAdT53Ao3I7mvedPgd4uzYrLpwZZWMZCiHgv1RfIob0QSA7Arf9de97hO9VU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51307727%2C51312688%2C51326931/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKWVGN71xEV0T7RXbQyE_DpZQ84iueUGJ_ULF1n6jzDgCIQC-4x7q7UbhO9xo1EAJwdmjSgMatJzziJg8_L47cemTQA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", BBC Persian
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
