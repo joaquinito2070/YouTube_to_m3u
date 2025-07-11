@@ -201,13 +201,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752268459/ei/SypxaNqKIJ2pkucPrOCVgQk/ip/74.235.218.90/id/MN8p-Vrn6G0.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMeu_GtxL_1q6Uzas8gFNiQPcmyhrwADJWgMEZv4QvEQgD2XSNvtPKmjkf0IZvZazy8SkFK5ALk/spc/l3OVKeg5i0b_YmeJp5le4H-q8iOk9JWXPGkFUbRoVYOqdh7QJxgNN--8Swr-RCejJxg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgT6i7jcGX6ozwVYXszv_Oa1wyW3hpPmsbpiO781p4aJECIH7I3auf4tWbzVIi67jzdEbvSE3PFyivkLfWl1NQXSzg/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", IndiaTV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Aaj Tak
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752279518/ei/flVxaOPEG4mH_tcPr-bV4Q8/ip/20.241.62.16/id/Nq2wYlWFucg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPzPf2DbxwNrxDPwWoIqpzsXMykxAtI5evU0HB3PxmujzwmAR2nz02k2wn710r6l3N9CgGW8zFT/spc/l3OVKUgnyoFWYXYikqpQNMI3sBE6i6-nxHJoMBOjyP9i62Lp3PM0zAQR3jVl0xq9DaE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPNFzIAUX7R4RDDugsZKj27btYJ8e8S-xYsC4Z9MQULLAiBivkNsn8qRN3FarQjOt1fWrMQK-tdFCbKqtlwXqTikKg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Ibiza Summer Mix 2021
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
