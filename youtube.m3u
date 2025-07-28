@@ -228,7 +228,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rodos Palladium Beach Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753716082/ei/EkGHaPbsL8GDkucP85i5oAM/ip/4.246.135.1/id/drhmo4XSVYA.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOwcFKXyaZXC6sznowN-05MiGtwYSpjV8pDY5S6u_-vBKI-01m_OZShOhC5ppZbn4j00y7ARFms/spc/l3OVKQ9gExnVgo2NKN2uLDI-j5maVOmQfgdFBDbrP8j4cBaU_LMdpw4WzCclzTRIj9M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542235/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAILVR_HAiLtbTE4VZ6q42XWdN3CyxHtAv0-cYTNnhVZNAiARIrfftgLOZ7begTl-kd0Wc5DPR_pMfa-rAA20HgTQSw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", OE24 TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
