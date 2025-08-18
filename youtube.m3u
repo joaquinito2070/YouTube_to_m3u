@@ -759,7 +759,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" tvg-id="", ANN JapaNews24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755501022/ei/fn2iaJWBDaWllu8PrrOP2QM/ip/52.173.108.16/id/coYw-eVU0Ks.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMjIB7DBubHF6OUeAy2kAcvnlwqOvRD8YQnuCW5IIZ1i8G1rgNKlmKxjigjEpBIC57L5xkI5ZV9/spc/l3OVKRewN4Yum_fXJfR7UexO9c8-SKYwue97h0QHsBsmb6LQIfDXUdg_xMUEN-KyEjI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIbMHutDV2YtJRut4yE1a6NyC3pOqi_3BQoyoMpvekkCAiEAt5aKCK4QiLYm_KHMiqxPAdRQGU5GQp-0FGQJHv8TTVo%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" tvg-id="", ANN News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
